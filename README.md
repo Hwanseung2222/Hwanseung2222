@@ -1,9 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=300&section=header&text=Welcome!!&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=This%20is%20Hwanseung%20github%20&descAlignY=70&descAlign=50&descSize=25&bgColor=000000" />
 
-https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-https://camo.githubusercontent.com/80e0455f28868c534f8e3cdb18bd4a18913d15a9f26558a96679c11e76d7a063/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079746f7263682d4545344332433f7374796c653d666c61742d737175617265266c6f676f3d5079746f726368266c6f676f436f6c6f723d7768697465
+
 <!--
 **Hwanseung2222/Hwanseung2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
