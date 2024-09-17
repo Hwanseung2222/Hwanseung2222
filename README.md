@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=8A2BE2&textBg=true&height=300&section=header&text=Welcome!😊%20&desc=This%20is%20Hwanseung%20github.&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0ff&height=300&section=header&text=Welcome!&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Glad%20to%20see%20you%20here!&descAlignY=70&descAlign=50&descSize=25&bgColor=000000" />
 ## Hi there 👋
 
 
